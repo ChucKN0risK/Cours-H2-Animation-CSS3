@@ -10,7 +10,7 @@ https://github.com/ChucKN0risK/LuchosFrontFramework
 Également si vous êtes intéressé sur comment mieux travailler ensemble vous pouvez trouver la conférence que j’ai pu faire l’année dernière à HETIC : 
 https://www.youtube.com/watch?v=nWWslZboeEE
 
-Voici également un article que j’ai vu en fin de journée qui par chance résume bien ce dont j’ai pu vous parler : 
+Voici également un article qui résume bien ce dont j’ai pu vous parler : 
 https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.ei6cfywr8
 
 Voici l’article de Pasquale Da Silva dont je vous ai également parlé :
@@ -52,6 +52,6 @@ Encore un gros merci à vous pour cette journée passée avec vous :)
 
 Excellente week-end à vous et à la semaine prochaine.
 
--- 
+--
 Louis Chenais
 Front-End Developer
