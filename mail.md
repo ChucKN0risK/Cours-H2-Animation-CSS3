@@ -7,7 +7,7 @@ Repo du cours d’aujourd’hui : https://github.com/ChucKN0risK/Cours-H2-Animat
 Repo du framework que je me suis forgé depuis mon arrivée à HETIC. Il contient un gulpfile avec plein de choses utiles.
 https://github.com/ChucKN0risK/LuchosFrontFramework
 
-Également si vous êtes intéressé sur comment mieux travailler ensemble vous pouvez trouver la conférence que j’ai pu faire l’année dernière à HETIC : 
+Également si vous êtes intéressé sur comment mieux travailler ensemble vous pouvez trouver la conférence que j’ai pu faire en 2016 à HETIC : 
 https://www.youtube.com/watch?v=nWWslZboeEE
 
 Voici également un article qui résume bien ce dont j’ai pu vous parler : 
