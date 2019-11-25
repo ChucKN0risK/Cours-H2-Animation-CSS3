@@ -1,11 +1,8 @@
-Salut les gens,
+Bonjour tout le monde,
 
-Comme convenu vous trouverez en pièce jointe ce qu’on a pu coder ensemble durant cette journée ainsi que les slides du cour.
+Comme convenu vous trouverez en pièce jointe ce qu’on a pu coder ensemble durant cette journée ainsi que les slides du cours.
 
 Repo du cours d’aujourd’hui : https://github.com/ChucKN0risK/Cours-H2-Animation-CSS3
-
-Repo du framework que je me suis forgé depuis mon arrivée à HETIC. Il contient un gulpfile avec plein de choses utiles.
-https://github.com/ChucKN0risK/LuchosFrontFramework
 
 Également si vous êtes intéressé sur comment mieux travailler ensemble vous pouvez trouver la conférence que j’ai pu faire en 2016 à HETIC : 
 https://www.youtube.com/watch?v=nWWslZboeEE
